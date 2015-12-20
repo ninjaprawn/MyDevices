@@ -1,6 +1,8 @@
 # MyDevices
 Easy way to list connected devices without iTunes.
 
+Download at https://github.com/ninjaprawn/MyDevices/releases
+
 #Features
 - Copy UDID of a connected device
 - Show notifications everytime a device is connected/disconnected
